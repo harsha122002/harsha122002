@@ -26,7 +26,7 @@
 -  📊 Aspiring Data Analyst | Passionate about turning data into actionable insights
 -  🧠 Skilled in Python, SQL, Excel, Power BI, Tableau
 -  📈 Currently exploring Machine Learning & Statistical Modeling
--  🎓 Google Data Analytics Certified | Continuous Learner
+-  🎓 Continuous Learner
 -  🔍 Open to projects, collaboration, and data challenges
   
 ---
