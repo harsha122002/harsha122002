@@ -4,7 +4,7 @@
 <!-- Stack to Build Model Image -->
 <h3 align="left">📊 My Data Analytics Stack</h3>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRlNjRjZzl0bDBrYWN2MmFjdnhveHgxYnhsNzZuaHFrdng2dGFseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x0TdO5S1mser1bIoCf/giphy.gif" alt="Data Analytics Stack" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRlNjRjZzl0bDBrYWN2MmFjdnhveHgxYnhsNzZuaHFrdng2dGFseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x0TdO5S1mser1bIoCf/giphy.gif" alt="Data Analytics Stack" width="300" height = "100"/>
 </p>
 
 <!-- LinkedIn -->
