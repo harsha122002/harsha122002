@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshali</h1>
-<h3 align="center">Passionate about transforming data into actionable insights</h3>
+<h3 align="center">I hold a degree in Bachelor of technology(Computer Science and Engineering) from Shivaji University,</h3>
 
 <!-- Stack to Build Model Image -->
 
